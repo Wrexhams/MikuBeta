@@ -1,4 +1,4 @@
-local script_ver = '1.3.0'
+local script_ver = '1.4.0'
 
 script_name('Miku Project Reborn')
 script_version(script_ver)
@@ -375,7 +375,7 @@ local player_vehicle = samem.cast('CVehicle **', samem.player_vehicle)
 -- auto updates
 local lmPath = "MikuProjectReborn.lua"
 local lmUrl = "https://raw.githubusercontent.com/MikuImpulse/Miku-Lua-AutoUpdates/main/MikuProjectReborn.lua"
-local betaUrl = "https://github.com/MikuImpulse/Miku-Lua-Beta/raw/refs/heads/main/MikuProjectReborn.lua"
+local betaUrl = "https://raw.githubusercontent.com/Wrexhams/MikuBeta/main/MikuProjectReborn.lua"
 local betaPath = "MikuProjectReborn.lua"
 local updfont = {}
 -- togglebutton
