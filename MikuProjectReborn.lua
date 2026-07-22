@@ -1,4 +1,4 @@
-local script_ver = '1.4.0'
+local script_ver = '1.3.1'
 
 script_name('Miku Project Reborn')
 script_version(script_ver)
